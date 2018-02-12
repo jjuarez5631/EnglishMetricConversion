@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EnglishMetricConversion</string>
+    <string name="app_title">English / Metic Conversion</string>
+
+    <string name="number_hint">Enter Inches</string>
+    <string name="convert_button">Convert</string>
+
+    <string-array name="txtGroup">
+        <item>Millimeters</item>
+        <item>Centimeters</item>
+        <item>Meters</item>
+    </string-array>
+
+</resources>
